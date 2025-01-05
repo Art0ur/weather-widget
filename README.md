@@ -37,6 +37,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## Exemplos de Uso
 - Insira o nome de uma cidade no campo de entrada.
 - Clique no botão "Buscar".
+- 
 ![image](https://github.com/user-attachments/assets/bc846d04-a44c-4ec2-9501-3eb90a88105e)
 
 
