@@ -37,12 +37,12 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## Exemplos de Uso
 - Insira o nome de uma cidade no campo de entrada.
 - Clique no botão "Buscar".
+![image](https://github.com/user-attachments/assets/bc846d04-a44c-4ec2-9501-3eb90a88105e)
+
+
 - Veja os dados climáticos atuais da cidade especificada, incluindo o clima e a temperatura.
-
-![image](https://github.com/user-attachments/assets/85f2095a-768a-4a6a-a118-cd1e07f847f7)
-![image](https://github.com/user-attachments/assets/54ddafd3-c83c-425b-967a-807cd09537e8)
-![image](https://github.com/user-attachments/assets/c4247d98-cb33-4383-93df-20361fdb7e83)
-
+  
+![image](https://github.com/user-attachments/assets/0422d438-13d6-4bee-bbe6-0f480bec20a1)
 
 ##Contribuições
 - Contribuições são sempre bem-vindas!
