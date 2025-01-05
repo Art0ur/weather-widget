@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Widget de Tempo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição
+Este projeto é um Widget de Clima, que inicialmente foi feito em C# conforme o projeto [MonitorTemperatura](https://github.com/Art0ur/MonitorTemperatura). Ele permite aos usuários obter dados climáticos atuais para uma cidade especificada. Foi desenvolvido em React utilizando styled-components para a estilização e OpenWeatherMap API para obter dados climáticos.
 
-## Available Scripts
+## Funcionalidades
+- Inserir o nome de uma cidade e obter dados climáticos atuais.
+- Exibir o clima atual (ex: nublado, ensolarado) com ícones representativos.
+- Exibir a temperatura atual em graus Celsius.
 
-In the project directory, you can run:
+## Pré-requisitos
+Certifique-se de ter as seguintes ferramentas instaladas:
+- [Node.JS](https://nodejs.org/)
+- [NPM](https://www.npmjs.com/)
 
-### `npm start`
+## Como Clonar e Rodar o Projeto
+1. **Clonar o Repositório**
+   ```bash
+   git clone https://github.com/Art0ur/WeatherWidget.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Navegar até o Diretório do Projeto
+2. ```bash
+   cd WeatherWidget
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalar as Dependências
+3. ```bash
+   npm install
 
-### `npm test`
+## Executar o Projeto
+4. ```bash
+   npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologias Utilizadas
+- **React**
+- **OpenWeatherMap API**
 
-### `npm run build`
+## Exemplos de Uso
+- Insira o nome de uma cidade no campo de entrada.
+- Clique no botão "Buscar".
+- Veja os dados climáticos atuais da cidade especificada, incluindo o clima e a temperatura.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/user-attachments/assets/85f2095a-768a-4a6a-a118-cd1e07f847f7)
+![image](https://github.com/user-attachments/assets/54ddafd3-c83c-425b-967a-807cd09537e8)
+![image](https://github.com/user-attachments/assets/c4247d98-cb33-4383-93df-20361fdb7e83)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##Contribuições
+- Contribuições são sempre bem-vindas!
+- Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contato
+Se tiver dúvidas ou sugestões, entre em contato:
+- Nome: Artur Silva
+- Email: [contact.arsilva@gmail.com](mailto:contact.arsilva@gmail.com)
+- LinkedIn: [Artur Jefferson](https://www.linkedin.com/in/arturjefferson)
