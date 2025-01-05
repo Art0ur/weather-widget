@@ -1,0 +1,31 @@
+.weather-widget {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+}
+
+button {
+    margin: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+}
+
+.resultado p {
+    font-size: 18px;
+    margin: 5px 0;
+}
